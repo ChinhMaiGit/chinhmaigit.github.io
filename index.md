@@ -47,7 +47,7 @@ This project establishes a data schema containing all the data in the [Olist](ht
 
 [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/)
 
-In this project, an exploratory data analysis is carried out using SQL as the main tool for extracting and manipulating data from the database and `Plotly` is used as the main package for visualizing query result.
+In this project, an exploratory data analysis on the database [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) is carried out using SQL as the main tool for extracting and manipulating data from the database and `Plotly` is used as the main package for visualizing query result.
 
 <img src="images/projectsql2.png?raw=true"/>
 
