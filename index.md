@@ -13,7 +13,7 @@ This project is based on a practical case that I have with my friend, where I an
 
 [Efficient Frontier in Excel](https://chinhmaigit.github.io/Project-Excel-2/)
 
-In this project, I construct many efficient frontiers from various stocks in the DAX30 index to showcase my familiarity with Excel.
+In this project, I construct many efficient frontiers from various stocks in the [DAX30 index](t.ly/OkEF) to showcase my familiarity with Excel.
 
 <img src="images/projectexcel2.png?raw=true"/>
 
