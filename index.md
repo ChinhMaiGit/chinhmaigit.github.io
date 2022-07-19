@@ -2,31 +2,38 @@
 
 ---
 
-### Category Name 1 
+### Excel
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shopee Sales Analysis](https://chinhmaigit.github.io/Project-Excel-1/)
+<img src="images/projectexcel1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Efficient Frontier in Excel](https://chinhmaigit.github.io/Project-Excel-2/)
+<img src="images/projectexcel2.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Python
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Stock data analysis in with Pandas and Plotly](https://chinhmaigit.github.io/Project-Python-1/)
+<img src="images/projectpython1.png?raw=true"/>
 
 ---
 
+[Portfolio Optimization and Analysis in Python](https://chinhmaigit.github.io/Project-Python-2/)
+<img src="images/projectpython2.png?raw=true"/>
+
+---
+
+### SQL
+
+[Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
+<img src="images/projectsql1.png?raw=true"/>
+
+---
+
+[Olist public data importing](https://chinhmaigit.github.io/Project-SQL-2/)
+<img src="images/projectsql2.png?raw=true"/>
 
 
 
