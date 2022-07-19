@@ -2,7 +2,7 @@
 
 ---
 
-### Excel
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 [Shopee Sales Analysis](https://chinhmaigit.github.io/Project-Excel-1/)
 
@@ -19,7 +19,7 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 ---
 
-### Python
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
 
 [Stock data analysis in with Pandas and Plotly](https://chinhmaigit.github.io/Project-Python-1/)
 
@@ -36,7 +36,7 @@ This project focuses on constructing, optimizing, and analyzing a portfolio of c
 
 ---
 
-### SQL
+[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 [Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
 
