@@ -12,7 +12,8 @@ This project is based on a practical case that I have with my friend, where I an
 
 <img src="images/projectexcel1.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-Excel-1/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-1)
+* [Project Overview](https://chinhmaigit.github.io/Project-Excel-1/)  
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-1)
 
 ### Efficient Frontier in Excel
 
@@ -20,7 +21,8 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 <img src="images/projectexcel2.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-Excel-2/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-2)
+* [Project Overview](https://chinhmaigit.github.io/Project-Excel-2/) 
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-2)
 
 ---
 
@@ -32,7 +34,8 @@ This project explores many components of the [DAX30 index](t.ly/OkEF) using `Pan
 
 <img src="images/projectpython1.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-Python-1/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-1)
+* [Project Overview](https://chinhmaigit.github.io/Project-Python-1/) 
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-1)
 
 ### Portfolio Optimization and Analysis in Python
 
@@ -40,7 +43,8 @@ This project focuses on constructing, optimizing, and analyzing a portfolio of c
 
 <img src="images/projectpython2.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-Python-2/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-2)
+* [Project Overview](https://chinhmaigit.github.io/Project-Python-2/)
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-2)
 
 ---
 
@@ -52,7 +56,8 @@ This project establishes a data schema containing all the data in the [Olist](ht
 
 <img src="images/projectsql1.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
+* [Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) 
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
 
 ### Olist public data exploratory analysis
 
@@ -60,7 +65,8 @@ In this project, an exploratory data analysis on the database [Olist](https://ww
 
 <img src="images/projectsql2.png?raw=true"/>
 
-[Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) • [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
+* [Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) 
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
