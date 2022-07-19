@@ -23,7 +23,7 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 [Stock data analysis in with Pandas and Plotly](https://chinhmaigit.github.io/Project-Python-1/)
 
-This project explores many components of the DAX30 index using Pandas and Plotly in Python.
+This project explores many components of the [DAX30 index](t.ly/OkEF) using `Pandas` and `Plotly` in Python.
 
 <img src="images/projectpython1.png?raw=true"/>
 
@@ -40,14 +40,14 @@ This project focuses on constructing, optimizing, and analyzing a portfolio of c
 
 [Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
 
-This project establishes a data schema containing all the data in the Olist set following the given structure of the publisher.
+This project establishes a data schema containing all the data in the [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) set following the given structure of the publisher.
 
 <img src="images/projectsql1.png?raw=true"/>
 
 
 [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/)
 
-In this project, an exploratory data analysis is carried out using SQL as the main tool for extracting and manipulating data from the database and `plotly` is used as the main package for visualizing query result.
+In this project, an exploratory data analysis is carried out using SQL as the main tool for extracting and manipulating data from the database and `Plotly` is used as the main package for visualizing query result.
 
 <img src="images/projectsql2.png?raw=true"/>
 
