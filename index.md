@@ -1,5 +1,7 @@
 ## Data Analytics Portfolio
 
+![image](https://user-images.githubusercontent.com/89245616/179814582-28dded5c-3186-42ff-8e35-95b2a3704d24.png)
+
 ---
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
