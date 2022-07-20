@@ -65,8 +65,8 @@ In this project, an exploratory data analysis on the database [Olist](https://ww
 
 <img src="images/projectsql2.png?raw=true"/>
 
-* [Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) 
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
+* [Project Overview](https://chinhmaigit.github.io/Project-SQL-2/) 
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-2/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
