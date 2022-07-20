@@ -17,7 +17,7 @@ This project is based on a practical case that I have with my friend, where I an
 
 ### Efficient Frontier in Excel
 
-In this project, I construct many efficient frontiers from various stocks in the [DAX30 index](t.ly/OkEF) to showcase my familiarity with Excel.
+In this project, I construct many efficient frontiers from various stocks in the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) to showcase my familiarity with Excel.
 
 <img src="images/projectexcel2.png?raw=true"/>
 
