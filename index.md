@@ -28,7 +28,7 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
 
-### Stock data analysis in with Pandas and Plotly
+### Stock data analysis with Pandas and Plotly
 
 This project explores many components of the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) using `Pandas` and `Plotly` in Python.
 
