@@ -74,7 +74,7 @@ In this project, an exploratory data analysis on the database [Olist](https://ww
 
 ### GDPR data analysis
 
-The General Data Protection Regulation (EU) (GDPR) is a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). The data includes fines that have been published on the PrivacyAffairs website as of 23.01.2021. It contains the article(s) breached, the type of violation, the fine amount, which country the infraction took place and the authority that handed the fine. Moreover, the organization and source document are also included. Understanding the these fines help prevent future violations and supports the training of the data users to adhere to the GDPR.
+The General Data Protection Regulation (EU) (GDPR) is a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). Understanding the these fines help prevent future violations and supports the training of the data users to adhere to the GDPR.
 
 <img src="images/projectpowerbi1.png?raw=true"/>
 
