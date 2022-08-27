@@ -46,6 +46,15 @@ This project focuses on constructing, optimizing, and analyzing a portfolio of c
 * [Project Overview](https://chinhmaigit.github.io/Project-Python-2/)
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-2)
 
+### HR Analytics Case Study
+
+The project focuses on modeling the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
+
+<img src="images/projectpython3.png?raw=true"/>
+
+* [Project Overview](https://chinhmaigit.github.io/Project-Python-3/)
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-3)
+
 ---
 
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
