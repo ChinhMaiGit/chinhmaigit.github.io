@@ -10,7 +10,7 @@
 
 This project is based on a practical case that I have with my friend, where I analyze Shopee sales data provided by [Atosa](https://app.atosa.asia/), a company that provides many marketing automation solutions for [Shopee](https://shopee.vn/), an ecommerce platform in Vietnam. 
 
-<img src="images/projectexcel1.png?raw=true"/>
+<img src="images/projectexcel1.jpg?raw=true"/>
 
 * [Project Overview](https://chinhmaigit.github.io/Project-Excel-1/)  
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-1)
@@ -19,7 +19,7 @@ This project is based on a practical case that I have with my friend, where I an
 
 In this project, I construct many efficient frontiers from various stocks in the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) to showcase my familiarity with Excel.
 
-<img src="images/projectexcel2.png?raw=true"/>
+<img src="images/projectexcel2.jpg?raw=true"/>
 
 * [Project Overview](https://chinhmaigit.github.io/Project-Excel-2/) 
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-2)
@@ -32,7 +32,7 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 This project explores many components of the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) using `Pandas` and `Plotly` in Python.
 
-<img src="images/projectpython1.png?raw=true"/>
+<img src="images/projectpython1.jpg?raw=true"/>
 
 * [Project Overview](https://chinhmaigit.github.io/Project-Python-1/) 
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-1)
@@ -41,7 +41,7 @@ This project explores many components of the [DAX30 index](https://www.google.co
 
 This project focuses on constructing, optimizing, and analyzing a portfolio of chosen stocks in Python.
 
-<img src="images/projectpython2.png?raw=true"/>
+<img src="images/projectpython2.jpg?raw=true"/>
 
 * [Project Overview](https://chinhmaigit.github.io/Project-Python-2/)
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-2)
@@ -94,7 +94,7 @@ In this project, an exploratory data analysis on the database [Olist](https://ww
 
 The General Data Protection Regulation (EU) (GDPR) is a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). Understanding the these fines help prevent future violations and supports the training of the data users to adhere to the GDPR.
 
-<img src="images/projectpowerbi1.png?raw=true"/>
+<img src="images/projectpowerbi1.jpg?raw=true"/>
 
 * [Project Overview](https://chinhmaigit.github.io/Project-PowerBI-1/)
 * [Github Repository](https://github.com/ChinhMaiGit/Project-PowerBI-1/)
