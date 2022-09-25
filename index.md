@@ -55,6 +55,15 @@ The project focuses on modeling the probability of attrition using a logistic re
 * [Project Overview](https://chinhmaigit.github.io/Project-Python-3/)
 * [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-3)
 
+### Candy product analysis
+
+The project focuses on analyzing which characteristics of a candy contribute to its popularity. The analysis shows several important factors that contribute to the probability of a candy to be chosen by customers and provides many suggestions to construct a most-preferred candy.
+
+<img src="images/projectpython4.png?raw=true"/>
+
+* [Project Overview](https://chinhmaigit.github.io/Project-Python-4/)
+* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-4)
+
 ---
 
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
