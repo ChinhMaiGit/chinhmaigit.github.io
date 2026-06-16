@@ -241,14 +241,15 @@ code { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.85em
 /* ── Main content ─────────────────────────────────────────────── */
 .content { min-width: 0; }
 
-.hero { margin-bottom: 2.5rem; }
-.hero .eyebrow {
+.eyebrow {
   font-family: "JetBrains Mono", monospace;
   font-size: 0.72rem; font-weight: 600;
   text-transform: uppercase; letter-spacing: 0.15em;
   color: var(--link);
   margin-bottom: 0.5rem;
 }
+
+.hero { margin-bottom: 2.5rem; }
 .hero h1 { font-size: 2rem; margin-bottom: 0.5rem; }
 .hero p { font-size: 1.02rem; color: var(--tx-3); }
 
@@ -266,6 +267,7 @@ code { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.85em
   border-radius: 9999px;
   border: 1px solid transparent;
 }
+.badge--about   { color: var(--link); background: rgba(249,115,22,0.12); border-color: rgba(249,115,22,0.3); }
 .badge--excel   { color: #16a34a; background: rgba(33,115,70,0.12);  border-color: rgba(33,115,70,0.25); }
 .badge--python  { color: #2563eb; background: rgba(55,118,171,0.12); border-color: rgba(55,118,171,0.25); }
 .badge--sql     { color: #0ea5e9; background: rgba(49,97,146,0.12);  border-color: rgba(49,97,146,0.25); }
@@ -334,6 +336,38 @@ code { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.85em
 }
 .card__links a:hover { background-color: var(--accent); border-color: var(--accent); color: #fff; text-decoration: none; }
 .card__links a.primary { border-color: rgba(249, 115, 22, 0.4); color: var(--link); }
+
+/* ── About section ───────────────────────────────────────────── */
+.about-lead {
+  margin-bottom: 1.25rem;
+  padding: 1.5rem;
+}
+.about-lead p { color: var(--tx-2); font-size: 1.02rem; }
+.about-lead p + p { margin-top: 0.85rem; }
+
+/* Text-only glass card (no thumbnail) */
+.card--text { padding: 1.5rem; }
+.card--text .eyebrow { margin-bottom: 0.4rem; }
+.card--text h3 { margin: 0 0 0.5rem; }
+.card--text p { color: var(--tx-3); font-size: 0.9rem; text-align: justify; }
+
+.layer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; }
+.tag {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.72rem; font-weight: 500;
+  padding: 0.25rem 0.7rem;
+  border-radius: 9999px;
+  color: var(--tx-2);
+  background-color: var(--bg-raised);
+  border: 1px solid var(--border);
+}
 
 .site-footer {
   margin-top: 3rem; padding-top: 1.25rem;

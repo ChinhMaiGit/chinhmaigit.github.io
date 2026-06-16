@@ -1,7 +1,52 @@
 <section class="hero">
-  <p class="eyebrow">Portfolio</p>
-  <h1>Data Analytics Portfolio</h1>
-  <p>A collection of analytics projects across Excel, Python, SQL and Power BI — each built with replicability in mind, with an executive summary, full documentation and the source workbook.</p>
+  <p class="eyebrow">BI Engineer · Causal &amp; Decision Intelligence</p>
+  <h1>Turning complex data into confident decisions</h1>
+  <p>I design and build robust data systems that turn raw data into reliable foundations for advanced causal analysis — and transform complex datasets into clear, actionable strategic insights.</p>
+</section>
+
+<section id="about" class="project-group">
+  <h2 class="group-title"><span class="badge badge--about">About</span></h2>
+
+  <div class="card about-lead">
+    <p>I'm a <strong>BI Engineer</strong> with deep expertise in <strong>Causal &amp; Decision Intelligence</strong>. My work spans three interconnected layers of analytics — from making patterns understandable, to explaining <em>why</em> outcomes occur, to recommending concrete actions.</p>
+  </div>
+
+  <div class="layer-grid">
+    <article class="card card--text">
+      <p class="eyebrow">01 — Descriptive</p>
+      <h3>Make patterns clear</h3>
+      <p>Compelling visualizations, interaction matrices, and storytelling frameworks that make patterns instantly understandable.</p>
+    </article>
+    <article class="card card--text">
+      <p class="eyebrow">02 — Diagnostic</p>
+      <h3>Explain why</h3>
+      <p>Rigorous causal inference — DAG construction, Bayesian statistics, and counterfactual analysis — to uncover true root causes.</p>
+    </article>
+    <article class="card card--text">
+      <p class="eyebrow">03 — Prescriptive</p>
+      <h3>Recommend action</h3>
+      <p>Game theory, optimization, and strategic modeling to recommend concrete, measurable actions.</p>
+    </article>
+  </div>
+
+  <div class="card card--text">
+    <p class="eyebrow">Currently</p>
+    <h3>BI Engineer at Meet5</h3>
+    <p>I build end-to-end analytical infrastructure — BigQuery pipelines, retention &amp; revenue tracking systems, and interactive Dash applications — that powers both operational reporting and high-impact causal research. I also work in geospatial analysis (H3, Kepler.gl) and complex network analysis (NetworkX). Beyond technical execution, I'm committed to mentoring and elevating analytical thinking, combining scientific rigor — inspired by Popper's falsifiability and Pearl's causal framework — with practical business acumen to move teams from data confusion to confident, evidence-based decisions.</p>
+    <div class="tags">
+      <span class="tag">BigQuery</span>
+      <span class="tag">Dash</span>
+      <span class="tag">Causal Inference</span>
+      <span class="tag">DAGs</span>
+      <span class="tag">Bayesian Stats</span>
+      <span class="tag">Counterfactuals</span>
+      <span class="tag">Game Theory</span>
+      <span class="tag">Optimization</span>
+      <span class="tag">H3</span>
+      <span class="tag">Kepler.gl</span>
+      <span class="tag">NetworkX</span>
+    </div>
+  </div>
 </section>
 
 <section id="excel" class="project-group">
