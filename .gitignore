@@ -1,0 +1,8 @@
+# Jekyll build output & local tooling
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
+Gemfile.lock

@@ -1,105 +1,163 @@
-# Data Analytics Portfolio
+<section class="hero">
+  <p class="eyebrow">Portfolio</p>
+  <h1>Data Analytics Portfolio</h1>
+  <p>A collection of analytics projects across Excel, Python, SQL and Power BI — each built with replicability in mind, with an executive summary, full documentation and the source workbook.</p>
+</section>
 
-![Analytics tools](https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png)
+<section id="excel" class="project-group">
+  <h2 class="group-title"><span class="badge badge--excel">Excel</span></h2>
+  <div class="card-grid">
 
----
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Excel-1/">
+        <img src="images/projectexcel1.jpg?raw=true" alt="Shopee Sales Analysis" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Shopee Sales Analysis</h3>
+        <p>Analysis of Shopee sales data provided by <a href="https://app.atosa.asia/">Atosa</a>, a marketing-automation provider for <a href="https://shopee.vn/">Shopee</a>, based on a practical case from an ecommerce platform in Vietnam.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Excel-1/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Excel-1">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Excel-2/">
+        <img src="images/projectexcel2.jpg?raw=true" alt="Efficient Frontier in Excel" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Efficient Frontier in Excel</h3>
+        <p>Constructing efficient frontiers from various stocks in the DAX30 index to showcase familiarity with Excel modelling.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Excel-2/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Excel-2">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-### Shopee Sales Analysis
+  </div>
+</section>
 
-This project is based on a practical case that I have with my friend, where I analyze Shopee sales data provided by [Atosa](https://app.atosa.asia/), a company that provides many marketing automation solutions for [Shopee](https://shopee.vn/), an ecommerce platform in Vietnam. 
+<section id="python" class="project-group">
+  <h2 class="group-title"><span class="badge badge--python">Python</span></h2>
+  <div class="card-grid">
 
-<img src="images/projectexcel1.jpg?raw=true"/>
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Python-1/">
+        <img src="images/projectpython1.jpg?raw=true" alt="Stock data analysis with Pandas and Plotly" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Stock Analysis with Pandas &amp; Plotly</h3>
+        <p>Exploring components of the DAX30 index using <code>Pandas</code> and <code>Plotly</code> in Python.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Python-1/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Python-1">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-* [Project Overview](https://chinhmaigit.github.io/Project-Excel-1/)  
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-1)
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Python-2/">
+        <img src="images/projectpython2.jpg?raw=true" alt="Portfolio Optimization and Analysis in Python" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Portfolio Optimization in Python</h3>
+        <p>Constructing, optimizing and analyzing a portfolio of chosen stocks in Python.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Python-2/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Python-2">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-### Efficient Frontier in Excel
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Python-3/">
+        <img src="images/projectpython3.png?raw=true" alt="HR Analytics Case Study" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>HR Analytics Case Study</h3>
+        <p>Modeling the probability of attrition with logistic regression, helping management understand what changes keep employees from leaving.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Python-3/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Python-3">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-In this project, I construct many efficient frontiers from various stocks in the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) to showcase my familiarity with Excel.
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-Python-4/">
+        <img src="images/projectpython4.png?raw=true" alt="Candy product analysis" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Candy Product Analysis</h3>
+        <p>Analyzing which characteristics make a candy popular, surfacing the key factors behind customer choice and how to design a most-preferred candy.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-Python-4/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-Python-4">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-<img src="images/projectexcel2.jpg?raw=true"/>
+  </div>
+</section>
 
-* [Project Overview](https://chinhmaigit.github.io/Project-Excel-2/) 
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Excel-2)
+<section id="sql" class="project-group">
+  <h2 class="group-title"><span class="badge badge--sql">PostgreSQL</span></h2>
+  <div class="card-grid">
 
----
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-SQL-1/">
+        <img src="images/projectsql1.png?raw=true" alt="Olist public data importing" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Olist Public Data Importing</h3>
+        <p>Building a data schema for the <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Olist</a> dataset that follows the publisher's given structure.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-SQL-1/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-SQL-1/">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-SQL-2/">
+        <img src="images/projectsql2.png?raw=true" alt="Olist public data exploratory analysis" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>Olist Exploratory Analysis</h3>
+        <p>Exploratory analysis of the <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Olist</a> database, using SQL to extract and manipulate data and <code>Plotly</code> to visualize query results.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-SQL-2/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-SQL-2/">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-### Stock data analysis with Pandas and Plotly
+  </div>
+</section>
 
-This project explores many components of the [DAX30 index](https://www.google.com/search?q=dax30+index&sxsrf=ALiCzsYyhxWtV6T4VG0ksd64cyjmbErQLQ%3A1658276895104&source=hp&ei=H0zXYorWA9PnsAf997KoDQ&iflsig=AJiK0e8AAAAAYtdaL0h-KHh5IPBaA9KvlJ3Pm2f2FHT7&ved=0ahUKEwjK4ZPqmob5AhXTM-wKHf27DNUQ4dUDCAk&uact=5&oq=dax30+index&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIAEEEYQ-gEyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjoECCMQJzoLCC4QgAQQxwEQ0QM6BQgAEIAEOgUILhCABDoMCCMQJxCdAhBGEPoBOgcIABCABBAKOgsILhCABBDHARCvAVAAWI0QYLYRaABwAHgAgAGdAogB7QaSAQYxMC4wLjGYAQCgAQE&sclient=gws-wiz) using `Pandas` and `Plotly` in Python.
+<section id="powerbi" class="project-group">
+  <h2 class="group-title"><span class="badge badge--powerbi">Power BI</span></h2>
+  <div class="card-grid">
 
-<img src="images/projectpython1.jpg?raw=true"/>
+    <article class="card">
+      <a class="card__thumb" href="https://chinhmaigit.github.io/Project-PowerBI-1/">
+        <img src="images/projectpowerbi1.jpg?raw=true" alt="GDPR data analysis" loading="lazy">
+      </a>
+      <div class="card__body">
+        <h3>GDPR Data Analysis</h3>
+        <p>Analyzing GDPR fines across the EU/EEA to help prevent future violations and support training of data users in adhering to the regulation.</p>
+        <div class="card__links">
+          <a class="primary" href="https://chinhmaigit.github.io/Project-PowerBI-1/">Overview</a>
+          <a href="https://github.com/ChinhMaiGit/Project-PowerBI-1/">GitHub</a>
+        </div>
+      </div>
+    </article>
 
-* [Project Overview](https://chinhmaigit.github.io/Project-Python-1/) 
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-1)
+  </div>
+</section>
 
-### Portfolio Optimization and Analysis in Python
-
-This project focuses on constructing, optimizing, and analyzing a portfolio of chosen stocks in Python.
-
-<img src="images/projectpython2.jpg?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-Python-2/)
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-2)
-
-### HR Analytics Case Study
-
-The project focuses on modeling the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
-
-<img src="images/projectpython3.png?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-Python-3/)
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-3)
-
-### Candy product analysis
-
-The project focuses on analyzing which characteristics of a candy contribute to its popularity. The analysis shows several important factors that contribute to the probability of a candy to be chosen by customers and provides many suggestions to construct a most-preferred candy.
-
-<img src="images/projectpython4.png?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-Python-4/)
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-Python-4)
-
----
-
-[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Olist public data importing
-
-This project establishes a data schema containing all the data in the [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) set following the given structure of the publisher.
-
-<img src="images/projectsql1.png?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-SQL-1/) 
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-1/)
-
-### Olist public data exploratory analysis
-
-In this project, an exploratory data analysis on the database [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) is carried out using SQL as the main tool for extracting and manipulating data from the database and `Plotly` is used as the main package for visualizing query result.
-
-<img src="images/projectsql2.png?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-SQL-2/) 
-* [GitHub Repository](https://github.com/ChinhMaiGit/Project-SQL-2/)
-
----
-
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-au/)
-
-### GDPR data analysis
-
-The General Data Protection Regulation (EU) (GDPR) is a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). Understanding the these fines help prevent future violations and supports the training of the data users to adhere to the GDPR.
-
-<img src="images/projectpowerbi1.jpg?raw=true"/>
-
-* [Project Overview](https://chinhmaigit.github.io/Project-PowerBI-1/)
-* [Github Repository](https://github.com/ChinhMaiGit/Project-PowerBI-1/)
-
----
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<footer class="site-footer">
+  Page template originally forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>, revamped 2026.
+</footer>
