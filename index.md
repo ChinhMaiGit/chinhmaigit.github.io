@@ -202,7 +202,3 @@
 
   </div>
 </section>
-
-<footer class="site-footer">
-  Page template originally forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>, revamped 2026.
-</footer>
