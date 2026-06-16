@@ -267,7 +267,8 @@ code { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.85em
   border-radius: 9999px;
   border: 1px solid transparent;
 }
-.badge--about   { color: var(--link); background: rgba(249,115,22,0.12); border-color: rgba(249,115,22,0.3); }
+.badge--about    { color: var(--link); background: rgba(249,115,22,0.12); border-color: rgba(249,115,22,0.3); }
+.badge--featured { color: var(--link); background: rgba(249,115,22,0.12); border-color: rgba(249,115,22,0.3); }
 .badge--excel   { color: #16a34a; background: rgba(33,115,70,0.12);  border-color: rgba(33,115,70,0.25); }
 .badge--python  { color: #2563eb; background: rgba(55,118,171,0.12); border-color: rgba(55,118,171,0.25); }
 .badge--sql     { color: #0ea5e9; background: rgba(49,97,146,0.12);  border-color: rgba(49,97,146,0.25); }
@@ -336,6 +337,23 @@ code { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.85em
 }
 .card__links a:hover { background-color: var(--accent); border-color: var(--accent); color: #fff; text-decoration: none; }
 .card__links a.primary { border-color: rgba(249, 115, 22, 0.4); color: var(--link); }
+
+/* ── Featured project (wide horizontal card) ─────────────────── */
+.card--featured { flex-direction: row; }
+.featured__thumb { width: 42%; flex-shrink: 0; aspect-ratio: auto; }
+.featured__thumb img { width: 100%; height: 100%; object-fit: cover; }
+.featured__body { padding: 1.75rem; }
+.featured__body h3 { font-size: 1.3rem; }
+.featured__body p { color: var(--tx-2); font-size: 0.92rem; }
+.featured__note {
+  margin-top: 0.85rem;
+  font-size: 0.82rem; font-style: italic;
+  color: var(--tx-4);
+}
+@media (max-width: 768px) {
+  .card--featured { flex-direction: column; }
+  .featured__thumb { width: 100%; aspect-ratio: 16 / 9; }
+}
 
 /* ── About section ───────────────────────────────────────────── */
 .about-lead {

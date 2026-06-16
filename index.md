@@ -49,6 +49,27 @@
   </div>
 </section>
 
+<section id="featured" class="project-group">
+  <h2 class="group-title"><span class="badge badge--featured">Featured Projects</span></h2>
+
+  <article class="card card--featured">
+    <a class="card__thumb featured__thumb" href="https://chicago-energy-benchmarking.vercel.app/">
+      <img src="images/projectchicagobenchmark.jpg?raw=true" alt="Chicago Energy Benchmarking — compliance-gated data" loading="lazy">
+    </a>
+    <div class="card__body featured__body">
+      <p class="eyebrow">Working paper · Live app</p>
+      <h3>Compliance-Gated Data &amp; Selection Bias</h3>
+      <p>It starts simply — predict the greenhouse-gas emissions of Chicago's buildings — but turns into a case study in how understanding the <strong>Data Generation Process (DGP)</strong> solves structural missing data caused by selection bias. Only buildings larger than 50,000 sqft are required to report, so the observed data isn't a representative sample but a biased sample of those that complied. The bias lives in the DGP itself, so no better model or pipeline corrects it unless it integrates the DGP.</p>
+      <p>The broader idea: much of our data isn't a neutral snapshot — it's constituted by a documented process (a regulation, an accounting standard, an eligibility rule). That document doesn't just describe the data, it <em>creates</em> it — so knowledge of the DGP can be extracted from these documents and built into the analytical pipeline. I demonstrate this with structural causal models, a working paper, and an interactive app.</p>
+      <div class="card__links">
+        <a class="primary" href="https://doi.org/10.5281/zenodo.20686697">📄 Read the paper</a>
+        <a href="https://chicago-energy-benchmarking.vercel.app/">💻 Launch the app</a>
+      </div>
+      <p class="featured__note">A developing idea, shared to think it through in the open — feedback and critique on the framing or method are genuinely welcome.</p>
+    </div>
+  </article>
+</section>
+
 <section id="excel" class="project-group">
   <h2 class="group-title"><span class="badge badge--excel">Excel</span></h2>
   <div class="card-grid">
